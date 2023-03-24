@@ -7,3 +7,4 @@ Our team:
 - Tech Lead: Maslauskas Denis
 - Lead Media Manager: Stepan Kurnosov
 - Lead Software Engineer: Ivan Yakovlev
+- Senior Engineer: Voloshinovsky Daniil
